@@ -1,9 +1,9 @@
 <?php
 // Paramètres de connexion à la base de données
 $host = "localhost";
-$dbname = "jo2028-deoliveira-lucas";
-$username = "root";
-$password = "root";
+$dbname = "xxxx";
+$username = "xxxx";
+$password = "xxxx";
 
 try {
     // Création d'une nouvelle connexion PDO
